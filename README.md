@@ -8,7 +8,7 @@ Begin by installing this package through Composer. Edit your project's `composer
 
     "require": {
 		"laravel/framework": "4.*",
-		"javierslzrh/playsmsws": "dev-master"
+		"javierslzrh/playsms": "dev-master"
 	},
 	"minimum-stability" : "dev"
 
