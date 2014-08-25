@@ -3,6 +3,7 @@
     "description": "PlaySMS API for Laravel 4",
     "type": "library",
     "keywords": ["sms","laravel4","playsms"],
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "Javier Salazar",
