@@ -1,0 +1,22 @@
+{
+    "name": "javierslzrh/playsms",
+    "description": "PlaySMS API for Laravel 4",
+    "type": "library",
+    "keywords": ["sms","laravel4","playsms"],
+    "authors": [
+        {
+            "name": "Javier Salazar",
+            "email": "javierslzrh@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Javierslzrh\\Playsmsws": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
