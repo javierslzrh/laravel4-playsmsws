@@ -4,15 +4,15 @@ return array(
 	/**
 	* URL - PlaySMS Webservices URL
 	*/
-	'url' => '',
+	'url' 		=> '',
 
 	/**
 	* USERNAME - PlaySMS username #
 	*/
-	'username' => '',
+	'username' 	=> '',
 
 	/**
 	* TOKEN - PlaySMS Webservices token
 	*/
-	'token' => '',
+	'token' 	=> '',
 );
