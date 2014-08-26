@@ -35,7 +35,7 @@ class PlaysmswsServiceProvider extends ServiceProvider {
 	 */
 	public function provides()
 	{
-		return array();
+		return array('playsmsws');
 	}
 
 }
