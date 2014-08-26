@@ -38,7 +38,7 @@ Sending a SMS Message
 ```php
 <?php
 
-Playsms::sendsms('+584260001122', 'Good morning');
+Playsms::sendSms('+584260001122', 'Good morning');
 
 ?>
 ```
