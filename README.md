@@ -8,9 +8,8 @@ Begin by installing this package through Composer. Edit your project's `composer
 
     "require": {
 		"laravel/framework": "4.*",
-		"javierslzrh/playsms": "dev-master"
+		"javierslzrh/playsmsws": "dev-master"
 	},
-	"minimum-stability" : "dev"
 
 
 Next, update Composer from the Terminal:
@@ -29,7 +28,7 @@ Publish config files from the Terminal
 
         php artisan config:publish javierslzrh/playsmsws
         
-Edit `config/packages/javierslzrh/config` with your appropriate PlaySMS settings        
+Edit `config/packages/javierslzrh/playsmsws/config.php` with your appropriate PlaySMS settings        
 
 
 ## Usage
